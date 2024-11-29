@@ -1,0 +1,12 @@
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="light_gray">#E3E3E3</color>
+    <color name="yellow">#FAA933</color>
+    <color name="yellow_press">#FFED71</color>
+    <color name="green">#3E6B54</color>
+    <color name="green_press">#2A4D3B</color>
+    <color name="red">#90EB6F74</color>
+    <color name="gray">#4E4E4E</color>
+    <color name="black50">#80000000</color>
+</resources>
